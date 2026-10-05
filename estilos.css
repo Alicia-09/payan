@@ -1,0 +1,33 @@
+.inicio {
+    background-color: #1E3A8A;
+}
+
+
+.tarjeta-descuento {
+    transition: transform 0.3s ease;
+}
+
+.tarjeta-descuento:hover {
+    transform: translateY(-5px);
+}
+
+
+.boton-descuento {
+    background-color: #1E3A8A;
+    color: white;
+    border: none;
+}
+
+.boton-descuento:hover {
+    background-color: #172F6F;
+    color: white;
+}
+
+.texto-descuento {
+    color: #777;
+}
+
+.resultado {
+    background-color: #1E3A8A;
+}
+
